@@ -1,0 +1,10 @@
+C:\Users\ezefe\OneDrive\Desktop\Examen New\Examen-Solution\Examen.BL\bin\Release\Examen.BL.dll
+C:\Users\ezefe\OneDrive\Desktop\Examen New\Examen-Solution\Examen.BL\bin\Release\Examen.BL.pdb
+C:\Users\ezefe\OneDrive\Desktop\Examen New\Examen-Solution\Examen.BL\bin\Release\Examen.BL.xml
+C:\Users\ezefe\OneDrive\Desktop\Examen New\Examen-Solution\Examen.BL\obj\Release\Examen.BL.vbproj.AssemblyReference.cache
+C:\Users\ezefe\OneDrive\Desktop\Examen New\Examen-Solution\Examen.BL\obj\Release\Examen.BL.Resources.resources
+C:\Users\ezefe\OneDrive\Desktop\Examen New\Examen-Solution\Examen.BL\obj\Release\Examen.BL.vbproj.GenerateResource.cache
+C:\Users\ezefe\OneDrive\Desktop\Examen New\Examen-Solution\Examen.BL\obj\Release\Examen.BL.vbproj.CoreCompileInputs.cache
+C:\Users\ezefe\OneDrive\Desktop\Examen New\Examen-Solution\Examen.BL\obj\Release\Examen.BL.dll
+C:\Users\ezefe\OneDrive\Desktop\Examen New\Examen-Solution\Examen.BL\obj\Release\Examen.BL.xml
+C:\Users\ezefe\OneDrive\Desktop\Examen New\Examen-Solution\Examen.BL\obj\Release\Examen.BL.pdb

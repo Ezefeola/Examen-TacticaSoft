@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ezefe\\OneDrive\\Desktop\\Examen TacticaSoft\\Examen-Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1B63C5-060B-4D3B-B79C-B3DDAB7124B0}|Examen\\Examen.vbproj|C:\\Users\\ezefe\\OneDrive\\Desktop\\Examen TacticaSoft\\Examen-Solution\\examen\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AB1B63C5-060B-4D3B-B79C-B3DDAB7124B0}|Examen\\Examen.vbproj|solutionrelative:examen\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1B63C5-060B-4D3B-B79C-B3DDAB7124B0}|Examen\\Examen.vbproj|c:\\users\\ezefe\\onedrive\\desktop\\examen tacticasoft\\examen-solution\\examen\\views\\ventas\\create.vbhtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB1B63C5-060B-4D3B-B79C-B3DDAB7124B0}|Examen\\Examen.vbproj|solutionrelative:examen\\views\\ventas\\create.vbhtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1B63C5-060B-4D3B-B79C-B3DDAB7124B0}|Examen\\Examen.vbproj|C:\\Users\\ezefe\\OneDrive\\Desktop\\Examen TacticaSoft\\Examen-Solution\\examen\\controllers\\ventascontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{AB1B63C5-060B-4D3B-B79C-B3DDAB7124B0}|Examen\\Examen.vbproj|solutionrelative:examen\\controllers\\ventascontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VentasController.vb",
+              "DocumentMoniker": "C:\\Users\\ezefe\\OneDrive\\Desktop\\Examen TacticaSoft\\Examen-Solution\\Examen\\Controllers\\VentasController.vb",
+              "RelativeDocumentMoniker": "Examen\\Controllers\\VentasController.vb",
+              "ToolTip": "C:\\Users\\ezefe\\OneDrive\\Desktop\\Examen TacticaSoft\\Examen-Solution\\Examen\\Controllers\\VentasController.vb",
+              "RelativeToolTip": "Examen\\Controllers\\VentasController.vb",
+              "ViewState": "AQIAADoAAAAAAAAAAAAgwEUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-29T14:51:18.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.vbhtml",
+              "DocumentMoniker": "C:\\Users\\ezefe\\OneDrive\\Desktop\\Examen TacticaSoft\\Examen-Solution\\Examen\\Views\\Ventas\\Create.vbhtml",
+              "RelativeDocumentMoniker": "Examen\\Views\\Ventas\\Create.vbhtml",
+              "ToolTip": "C:\\Users\\ezefe\\OneDrive\\Desktop\\Examen TacticaSoft\\Examen-Solution\\Examen\\Views\\Ventas\\Create.vbhtml",
+              "RelativeToolTip": "Examen\\Views\\Ventas\\Create.vbhtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAiwCQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003381|",
+              "WhenOpened": "2024-06-29T14:48:38.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\ezefe\\OneDrive\\Desktop\\Examen TacticaSoft\\Examen-Solution\\Examen\\Web.config",
+              "RelativeDocumentMoniker": "Examen\\Web.config",
+              "ToolTip": "C:\\Users\\ezefe\\OneDrive\\Desktop\\Examen TacticaSoft\\Examen-Solution\\Examen\\Web.config",
+              "RelativeToolTip": "Examen\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-29T14:01:19.281Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

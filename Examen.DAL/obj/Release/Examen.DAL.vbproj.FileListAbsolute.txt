@@ -1,0 +1,14 @@
+C:\Users\ezefe\OneDrive\Desktop\Examen New\Examen-Solution\Examen.DAL\bin\Release\Examen.DAL.dll
+C:\Users\ezefe\OneDrive\Desktop\Examen New\Examen-Solution\Examen.DAL\bin\Release\Examen.DAL.pdb
+C:\Users\ezefe\OneDrive\Desktop\Examen New\Examen-Solution\Examen.DAL\bin\Release\Examen.DAL.xml
+C:\Users\ezefe\OneDrive\Desktop\Examen New\Examen-Solution\Examen.DAL\bin\Release\Examen.BL.dll
+C:\Users\ezefe\OneDrive\Desktop\Examen New\Examen-Solution\Examen.DAL\bin\Release\Examen.BL.pdb
+C:\Users\ezefe\OneDrive\Desktop\Examen New\Examen-Solution\Examen.DAL\bin\Release\Examen.BL.xml
+C:\Users\ezefe\OneDrive\Desktop\Examen New\Examen-Solution\Examen.DAL\obj\Release\Examen.DAL.vbproj.AssemblyReference.cache
+C:\Users\ezefe\OneDrive\Desktop\Examen New\Examen-Solution\Examen.DAL\obj\Release\Examen.DAL.Resources.resources
+C:\Users\ezefe\OneDrive\Desktop\Examen New\Examen-Solution\Examen.DAL\obj\Release\Examen.DAL.vbproj.GenerateResource.cache
+C:\Users\ezefe\OneDrive\Desktop\Examen New\Examen-Solution\Examen.DAL\obj\Release\Examen.DAL.vbproj.CoreCompileInputs.cache
+C:\Users\ezefe\OneDrive\Desktop\Examen New\Examen-Solution\Examen.DAL\obj\Release\Examen.DAL.vbproj.Up2Date
+C:\Users\ezefe\OneDrive\Desktop\Examen New\Examen-Solution\Examen.DAL\obj\Release\Examen.DAL.dll
+C:\Users\ezefe\OneDrive\Desktop\Examen New\Examen-Solution\Examen.DAL\obj\Release\Examen.DAL.xml
+C:\Users\ezefe\OneDrive\Desktop\Examen New\Examen-Solution\Examen.DAL\obj\Release\Examen.DAL.pdb
